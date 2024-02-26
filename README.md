@@ -1,6 +1,6 @@
-# Animais Fantásticos([Click Here](https://github.com/Netinhoalves/animais-fantasticos))
+# Animais Fantásticos([Click Here](https://netinhoalves.github.io/animais-fantasticos/))
 
-![Preview](./img/preview//preview-desktop.png)
+![Preview](./img/preview/preview-desktop.png)
 
 ## SOBRE ESTE PROJETO!
 
@@ -21,4 +21,4 @@ O objetivo do projeto é criar um website informátivo sobre alguns animais da n
 
 ## Acessar minha resolução
 
-   Eu hospedei este desafio com a ajuda da [Vercel](https://vercel.com/), para acessar minha resolução deste desafio [Clique Aqui](#)
+   Eu hospedei este desafio com a ajuda da [Vercel](https://vercel.com/), para acessar minha resolução deste desafio [Clique Aqui](https://netinhoalves.github.io/animais-fantasticos/)
